@@ -37,9 +37,6 @@ Branch Angle: Adjust the left and right turns to change the spread of the branch
 
 Star Count: Change the number of stars by modifying num_stars in draw_starry_sky().
 
-📷 Preview
-
-Watch a beautiful fractal tree grow under a starry night sky!
 
 📜 License
 
